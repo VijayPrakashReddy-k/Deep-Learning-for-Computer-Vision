@@ -4,6 +4,9 @@ The automatic analysis and understanding of images and videos, a field called *C
 
 ### COURSE LAYOUT
 
+![Course outline](https://user-images.githubusercontent.com/42317258/86790233-ccf4cc80-c085-11ea-80d8-8753afff91ac.png)
+
+
 **Week 1:Introduction and Overview:**
 
 `○	Course Overview and Motivation; Introduction to Image Formation, Capture and Representation; Linear Filtering, Correlation,Convolution`
